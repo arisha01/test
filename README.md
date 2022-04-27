@@ -5,4 +5,4 @@
 =======================================
 <!-- Strikethrough -->
 ~~whatever~~ is strikethrough
-**plus** is bold
+# **plus** is bold
